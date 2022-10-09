@@ -7,4 +7,4 @@ Recopilació de dades geográfiques de la ciutat d'Alcoi
 
 ## Dades no geográfiques
 
-* Dades d'igualtat a les festes de Moros i Cristians d'Alcoi
+* Dades d'igualtat a les festes de Moros i Cristians d'Alcoi: https://github.com/Ponsoda/alcoi-m-c-dades
